@@ -17,7 +17,7 @@ function Card({img, title, tech, description, repo, site}) {
     return(
         <div onMouseLeave={infoOff} className={styles.card}>
             <a onMouseOver={infoOn} href={site}>
-                <img src={img} alt="Projeto LP DNC"/>
+                <img src={img} alt="Projetos"/>
             </a>
 
             {info === true && (

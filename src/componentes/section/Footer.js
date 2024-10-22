@@ -10,7 +10,7 @@ function Footer() {
                 <li><a href="https://www.linkedin.com/in/andressa-mbraga/"><FaLinkedin size={30}/></a></li>
             </ul>
             <p>andressamesquita26@gmail.com</p>
-            <p>Andressa Mesquita © 2023</p>
+            <p>Andressa Mesquita © 2024</p>
         </div>
     )
 }
